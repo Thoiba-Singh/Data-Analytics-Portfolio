@@ -1,0 +1,14 @@
+# Superstore Sales Dashboard
+
+--Tools Used
+Python 
+Pandas
+Power  BI
+
+--Project Overview
+This project analyzes the Superstore Sales dataset using Python for data exploration and Power BI for creating an interactive dashboard
+
+--Files
+Dashboard.pbix
+Dataset.csv
+Jupyter Notebook (.ipynb) 
