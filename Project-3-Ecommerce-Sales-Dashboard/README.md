@@ -17,5 +17,5 @@ This project analyzes e-commerce sales data using SQL for data querying, Python 
 - SQL Queries
 - Dashboard.png
 ## Dataset
-The dataset was download from Kaggle
+The dataset was download from Kaggle.
 It is not included in this repository because it exceeds Github's file upload limit.
