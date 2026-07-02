@@ -7,7 +7,7 @@ This project analyzes the Superstore Sales dataset using python for data explora
 - Matplotlib
 - Power BI
 ## Dashboard  Preview
-![Dashboard](Dashboard.png)
+! [Dashboard](Dashboard.png)
 ## Files Included
 - [Dataset](Sample-Superstore.csv)
 - [Power Bi Dashboard](Superstore_Sales_Dashboard.pbix)
