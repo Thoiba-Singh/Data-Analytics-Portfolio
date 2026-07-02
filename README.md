@@ -3,10 +3,10 @@ Welcome to my Data Analytics Portfolio.
 This repository contains my hands-on data analytics projects created using SQL, Python, Pandas, and Power Bi.
 ## Projects so far
 ### Project 1: Superstore Sales Dashboard
-- Tools: Python, Pandas, Power Bi
+- Tools: Python, Pandas, Matplotlib, Power Bi
 - Analyzed sales performance and business trends.
 ### Project 2: HR Analytics Dashboard
-- Tools: Power Bi
+- Tools: Python, Pandas, Matplotlib, Power Bi
 - Analyzed employee attrition and workforce metrices.
 ### Project 3: E-Commerce Sales Dashboard
 - Tools: SQL, Power Bi
