@@ -1,1 +1,24 @@
-
+# Data Analytics Portfolio
+Welcome to my Data Analytics Portfolio.
+This repository contains my hands-on data analytics projects created using SQL, Python, Pandas, and Power Bi.
+## Projects so far
+### Project 1: Superstore Sales Dashboard
+- Tools: Python, Pandas, Power Bi
+- Analyzed sales performance and business trends.
+### Project 2: HR Analytics Dashboard
+- Tools: Power Bi
+- Analyzed employee attrition and workforce metrices.
+### Project 3: E-Commerce Sales Dashboard
+- Tools: SQL, Power Bi
+- Analyzed e-commerce sales, customers, and business performance.
+## Skills
+- SQL
+- Python
+- Pandas
+- Maplotlib
+- Power Bi
+- Data Cleaning
+- Data Visualization
+- Business Analysis
+## About Me
+I am an aspiring Data Analyst passionate about turning raw data into meeaningful business insights. This portfolio showcases my learning  journey and practical projects.
