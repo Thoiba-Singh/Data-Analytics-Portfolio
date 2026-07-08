@@ -11,6 +11,9 @@ This repository contains my hands-on data analytics projects created using SQL, 
 ### Project 3: E-Commerce Sales Dashboard
 - Tools: SQL, Power Bi
 - Analyzed e-commerce sales, customers, and business performance.
+### Project 4: Retail Sales & Profit Dashboard
+- Tools: Python, Pandas, and Power Bi
+- Analyzed retail sales, profit trends, top products, cities, region, and customer segments.
 ## Skills
 - SQL
 - Python
