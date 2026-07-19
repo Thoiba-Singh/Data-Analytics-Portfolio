@@ -14,6 +14,9 @@ This repository contains my hands-on data analytics projects created using SQL, 
 ### Project 4: Retail Sales & Profit Dashboard
 - Tools: Python, Pandas, and Power Bi
 - Analyzed retail sales, profit trends, top products, cities, region, and customer segments.
+### Project 5: Blinkit Sales & Delivery Dashboard
+- Tools: SQL, Power Bi
+- Build an interactive dashboard to analyze Blinkit sales, delivery performance, payment methods, monthly revenue trends, and top performing stores using SQL and Power bi.
 ## Skills
 - SQL
 - Python
