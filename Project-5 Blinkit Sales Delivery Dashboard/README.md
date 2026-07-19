@@ -28,7 +28,7 @@ This project analysis Blinkit's sales and delivery performance using Power BI. T
 - Store 523 generated the highest revenue.
 - Payment methods contributed almost equally to total orders.
 ## Dahboard Preview
-Dahboard Screenshot
+! [Dashboard Screenshot](Dashboard Screenshot.png)
 ## Files Included
 - Blinkit Sales Dashboard.pbix
 - SQL Queries.sql
