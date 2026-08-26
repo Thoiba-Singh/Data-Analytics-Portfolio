@@ -16,8 +16,12 @@ This repository contains my hands-on data analytics projects created using SQL, 
 - Analyzed retail sales, profit trends, top products, cities, region, and customer segments.
 ### Project 5: Blinkit Sales & Delivery Dashboard
 - Tools: SQL, Power Bi
-- Build an interactive dashboard to analyze Blinkit sales, delivery performance, payment methods, monthly revenue trends, and top performing stores using SQL and Power bi.
+- Analyzed Blinkit sales, delivery performance, payment methods, monthly revenue trends, and top performing stores using SQL and Power bi.
+### Project 6: Telco Customer Churn Analytics Dashboard
+-Tools: Excel, Python, SQL, Power BI
+- Analyzed customer churn, customer behaviour, revenue and churn drivers
 ## Skills
+- Excel
 - SQL
 - Python
 - Pandas
@@ -27,4 +31,4 @@ This repository contains my hands-on data analytics projects created using SQL, 
 - Data Visualization
 - Business Analysis
 ## About Me
-I am an aspiring Data Analyst passionate about turning raw data into meeaningful business insights. This portfolio showcases my learning  journey and practical projects.
+I am an aspiring Data Analyst passionate about turning raw data into meaningful business insights. This portfolio showcases my learning  journey and practical projects.
