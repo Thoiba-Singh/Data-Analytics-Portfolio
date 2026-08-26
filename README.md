@@ -18,7 +18,7 @@ This repository contains my hands-on data analytics projects created using SQL, 
 - Tools: SQL, Power Bi
 - Analyzed Blinkit sales, delivery performance, payment methods, monthly revenue trends, and top performing stores using SQL and Power bi.
 ### Project 6: Telco Customer Churn Analytics Dashboard
--Tools: Excel, Python, SQL, Power BI
+- Tools: Excel, Python, SQL, Power BI
 - Analyzed customer churn, customer behaviour, revenue and churn drivers
 ## Skills
 - Excel
